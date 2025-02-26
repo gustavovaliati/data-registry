@@ -1,0 +1,5 @@
+outs:
+- md5: 9abcde3c584628a02620bf796dee1204
+  size: 2
+  hash: md5
+  path: vehicle-640p-fp32.txt.pt
