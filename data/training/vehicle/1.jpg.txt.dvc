@@ -1,0 +1,5 @@
+outs:
+- md5: 8a8bb7cd343aa2ad99b7d762030857a2
+  size: 2
+  hash: md5
+  path: 1.jpg.txt
